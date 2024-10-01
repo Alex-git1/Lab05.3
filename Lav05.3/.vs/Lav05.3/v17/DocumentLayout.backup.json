@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab05.3\\Lav05.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE616A6E-51D1-4C80-BF7F-457210BB71A8}|UnitTest3\\UnitTest3.vcxproj|C:\\Student\\PI-12\\Symodeiko\\AP\\Lab05.3\\Lav05.3\\UnitTest3\\UnitTest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE616A6E-51D1-4C80-BF7F-457210BB71A8}|UnitTest3\\UnitTest3.vcxproj|solutionrelative:UnitTest3\\UnitTest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03615C5B-F476-4973-8C86-82530EAF6565}|Lav05.3\\Lav05.3.vcxproj|C:\\Student\\PI-12\\Symodeiko\\AP\\Lab05.3\\Lav05.3\\Lav05.3\\Lab05.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03615C5B-F476-4973-8C86-82530EAF6565}|Lav05.3\\Lav05.3.vcxproj|solutionrelative:Lav05.3\\Lab05.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest3.cpp",
+              "DocumentMoniker": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab05.3\\Lav05.3\\UnitTest3\\UnitTest3.cpp",
+              "RelativeDocumentMoniker": "UnitTest3\\UnitTest3.cpp",
+              "ToolTip": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab05.3\\Lav05.3\\UnitTest3\\UnitTest3.cpp",
+              "RelativeToolTip": "UnitTest3\\UnitTest3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T20:14:03.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab05.3.cpp",
+              "DocumentMoniker": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab05.3\\Lav05.3\\Lav05.3\\Lab05.3.cpp",
+              "RelativeDocumentMoniker": "Lav05.3\\Lab05.3.cpp",
+              "ToolTip": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab05.3\\Lav05.3\\Lav05.3\\Lab05.3.cpp",
+              "RelativeToolTip": "Lav05.3\\Lab05.3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T19:38:13.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
